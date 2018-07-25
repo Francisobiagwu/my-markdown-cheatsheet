@@ -9,9 +9,9 @@ Dataset Visualization Software
 
 #### Patterns applied ####
 
-    Visitor patterns
-    Builder patterns
-    Strategy patterns
+    Visitor pattern
+    Builder pattern
+    Strategy pattern
     Singleton pattern
     Decorator pattern
     Observer pattern
