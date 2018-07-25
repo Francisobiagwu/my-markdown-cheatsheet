@@ -5,7 +5,7 @@ Dataset Visualization Software
 
 ### Introduction ###
 
-   Dataset Visualization Software is a SE-577 group project at Drexel University. The primary goal of this project is to design and apply software design patterns, and attributes to a website. 
+   Dataset Visualization Software is a SE-577 group project at Drexel University. The primary goal of this project is to design and apply software design patterns, and quality attributes to a website. 
 
 #### Patterns applied ####
 
@@ -20,7 +20,7 @@ Dataset Visualization Software
 
 
 
-#### Attributes applied ####
+#### Quality attributes applied ####
 
     Security attributes
     Usability attributes
