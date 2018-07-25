@@ -12,10 +12,19 @@ Dataset Visualization Software
     Visitor patterns
     Builder patterns
     Strategy patterns
+    Singleton pattern
+    Decorator pattern
+    Observer pattern
+    Template pattern
+    Iterator pattern
+
 
 
 #### Attributes applied ####
 
     Security attributes
     Usability attributes
-    Strategy patterns
+    Strategy attributes
+    Maintanability attributes
+    Portability attributes
+    Interoperability attributes
