@@ -7,14 +7,14 @@ Dataset Visualization Software
 
    Dataset Visualization Software a SE-577 course group project at Drexel University. The primary goal is to design and apply software design patterns, and attributes to a website. 
 
-#### Patterns applied####
+#### Patterns applied ####
 
     Visitor patterns
     Builder patterns
     Strategy patterns
 
 
-####Attributes applied####
+#### Attributes applied ####
 
     Security attributes
     Usability attributes
