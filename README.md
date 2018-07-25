@@ -1,5 +1,5 @@
-SE-577 Software Architecture
-===================
+Dataset Visualization Software
+==============================
 
 - - - - 
 
